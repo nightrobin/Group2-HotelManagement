@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643468597 source:c:\users\maria lyn\onedrive\documents\55555\project\main.cpp
+	<iostream>
+	"Project.h"
+
+1643468131 source:c:\users\maria lyn\onedrive\documents\55555\project\src\project.cpp
+	"Project.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<iomanip>
+
+1643468510 c:\users\maria lyn\onedrive\documents\55555\project\include\project.h
+

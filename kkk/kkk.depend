@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1641299695 source:c:\users\maria lyn\onedrive\documents\final\kkk\main.cpp
-	<iostream>
-	<fstream>
-	<stdio.h>
-	<string.h>
-	<cstring>
-	<iomanip>
-
