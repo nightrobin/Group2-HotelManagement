@@ -1,4 +1,4 @@
-#include "Project.h"
+#include "HMS.h"
 
 #include<iostream>
 #include<fstream>
@@ -21,7 +21,6 @@ using namespace std;
 
 void HOTEL::add()
 {
-
 
 	int r,flag;
 	ofstream fout("Record.DAT",ios::app|ios::binary);

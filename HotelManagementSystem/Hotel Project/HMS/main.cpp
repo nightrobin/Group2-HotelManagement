@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Project.h"
+#include"HMS.h"
 
 using namespace std;
 
@@ -40,11 +40,11 @@ system("pause");
 	int choice;
 	while(choice!=6)
 	{
-        HOTEL htl; //Instantiate Bookshop = Object
+        HOTEL htl; //Instantiate HotelManagementSystemm = htl
         system("cls");
         system("color F2");
 
-		cout<<"\n\t\t\t\t    ________________________________________________";
+		cout<<"\n\t\t\t\t    ______________________________________________";
 		cout<<"\n\t\t\t\t   |--------------------THE HOTEL-------------------|";
 		cout<<"\n\t\t\t\t   |________________________________________________|";
 		cout<<"\n\t\t\t\t   |--------------------MAIN MENU-------------------|";
@@ -88,4 +88,3 @@ system("pause");
 	}
 }
 }
-

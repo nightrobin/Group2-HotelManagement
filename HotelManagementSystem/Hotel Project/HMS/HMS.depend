@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1643726005 source:c:\users\maria lyn\onedrive\documents\hotel project\hms\main.cpp
+	<iostream>
+	"HMS.h"
+
+1643725538 c:\users\maria lyn\onedrive\documents\hotel project\hms\include\hotel.h
+
+1643725994 c:\users\maria lyn\onedrive\documents\hotel project\hms\include\hms.h
+
+1643726327 source:c:\users\maria lyn\onedrive\documents\hotel project\hms\src\hms.cpp
+	"HMS.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<iomanip>
+

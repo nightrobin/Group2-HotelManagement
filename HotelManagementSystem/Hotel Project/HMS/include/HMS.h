@@ -1,5 +1,5 @@
-#ifndef PROJECT_H
-#define PROJECT_H
+#ifndef HMS_H
+#define HMS_H
 
 
 class HOTEL
@@ -24,10 +24,11 @@ class HOTEL
 	  void modify_days(int);          //to modify days of stay of guest
 	  void services();
 
-
+    protected:
 
     private:
-      int room_no;
+
+              int room_no;
 	  char ID[50];
 	  char name[30];
 	  char address[50];
@@ -46,4 +47,4 @@ class HOTEL
 	  void Swimming(int);
 };
 
-#endif // PROJECT_H
+#endif // HMS_H
